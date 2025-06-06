@@ -1,0 +1,25 @@
+# This file lists the Python packages required to run the SmartPigCare project.
+# You can use it to install all dependencies quickly with:
+#     pip install -r requirements.txt
+#
+# Packages included:
+# - flask: Web backend framework
+# - tensorflow: Machine learning model training and inference
+# - pandas: Data manipulation and CSV handling
+# - numpy: Numerical computing (required by TensorFlow)
+# - matplotlib: Plotting and visualization
+# - scipy: Scientific computing utilities
+# - opencv-python: Image processing
+# - Pillow: Image loading and manipulation
+# - requests: HTTP requests library (optional)
+
+
+flask==2.3.2
+tensorflow==2.13.0
+pandas==2.0.3
+numpy==1.24.3
+matplotlib==3.7.1
+scipy==1.11.1
+opencv-python==4.7.0.72
+Pillow==9.5.0
+requests==2.31.0
