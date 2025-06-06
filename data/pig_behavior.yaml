@@ -1,0 +1,10 @@
+# data/pig_behavior.yaml
+# YOLOv8 dataset configuration file for pig feeding behavior detection
+
+path: ../data
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 2
+names: ["not_feeding", "feeding"]
