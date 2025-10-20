@@ -1,6 +1,6 @@
 # SmartPigCare
 
-SmartPigCare is a web-based application built for the AI Foundry Hackathon at UIUC (2025), where it won the award for Best Presentation. The site demonstrates how AI-driven tools can help monitor and manage swine health and feeding using sample (dummy) data.
+SmartPigCare is a web-based application built for the AI Foundry Hackathon at UIUC (2025), where it won the award for Best Presentation. The site demonstrates how AI-driven tools can help monitor and manage swine health and feeding using sample data.
 
 ## Overview
 
